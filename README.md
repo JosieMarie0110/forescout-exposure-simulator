@@ -125,3 +125,15 @@ The goal was to keep the implementation lightweight while still providing an int
 
 ## Project Structure
 
+
+```
+forescout-exposure-simulator
+│
+├── app.py
+├── analyzer.py
+├── scoring.py
+├── sample_data.py
+├── requirements.txt
+└── README.md
+```
+

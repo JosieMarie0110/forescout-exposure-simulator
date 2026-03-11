@@ -47,6 +47,8 @@ I built this project to simulate the workflow that exposure management platforms
 
 ---
 
+<img width="943" height="1235" alt="image" src="https://github.com/user-attachments/assets/57573166-6e05-42ee-a554-8215d3876140" />
+
 ## Key Features
 
 **Scenario-Based Simulation**
